@@ -23,3 +23,11 @@
 **Thoughts:** I found a first-timers-only issue through Twitter and claimed the issue.  I already made the fix and submitted a Pull Request.  It wasn't anything major, but it allowed me to contribute to a group project and get a bit better footing within GitHub besides just working on my own projects.  I also started laying the framework for the next project towards the freeCodeCamp Responsive Web Design Certification (a landing page).
 
 **Link to work:** [CodePen link](https://codepen.io/whimsicurl_designs/pen/bJKgeL), [GitHub link for landing page](https://github.com/whimsicurl-creations/fcc-landing-page), [GitHub link for my fork of open source project](https://github.com/whimsicurl-creations/website), [GitHub link to open source project](https://github.com/techqueria/website)
+
+### Day 5: April 22, 2019
+
+**Today's Progress**: Continued work on freeCodeCamp Landing Page
+
+**Thoughts:** Today was pretty unproductive - spent a lot of time not getting much done, but I did add a little more to the landing page to get into a bit of code today.  Also continued working through the 30 days of CSS with Brad Hussey (days 13 and 14 for sticky footers and headers)
+
+**Link to work:** [CodePen link](https://codepen.io/whimsicurl_designs/pen/bJKgeL), [GitHub link](https://github.com/whimsicurl-creations/fcc-landing-page)
