@@ -31,3 +31,11 @@
 **Thoughts:** Today was pretty unproductive - spent a lot of time not getting much done, but I did add a little more to the landing page to get into a bit of code today.  Also continued working through the 30 days of CSS with Brad Hussey (days 13 and 14 for sticky footers and headers)
 
 **Link to work:** [CodePen link](https://codepen.io/whimsicurl_designs/pen/bJKgeL), [GitHub link](https://github.com/whimsicurl-creations/fcc-landing-page)
+
+### Day 6: April 23, 2019
+
+**Today's Progress**: Halfway through 30 Days of CSS (Brad Hussey) and did more JavaScript with freeCodeCamp
+
+**Thoughts:** I've been seeing a lot about JavaScript lately and it's something I've worked my way through but it just doesn't seem to sink in.  I decided to commit to working through more of the curriculum on freeCodeCamp to start and then I will work through 30 days of JavaScript (not sure yet if I will tackle that once I finish the 30 days of CSS or if I'll start sooner).
+
+**Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
