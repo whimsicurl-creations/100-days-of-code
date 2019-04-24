@@ -39,3 +39,11 @@
 **Thoughts:** I've been seeing a lot about JavaScript lately and it's something I've worked my way through but it just doesn't seem to sink in.  I decided to commit to working through more of the curriculum on freeCodeCamp to start and then I will work through 30 days of JavaScript (not sure yet if I will tackle that once I finish the 30 days of CSS or if I'll start sooner).
 
 **Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
+
+### Day 7: April 24, 2019
+
+**Today's Progress**: Created a Modal Window with CSS and worked through more JavaScript on freeCodeCamp
+
+**Thoughts:** I worked through more of the curriculum for JavaScript on freeCodeCamp including a function that returned a particular phrase depending on how close you were to par.  While it was a very simplistic function, it was a challenge that wasn't as clearly laid out so it felt good to complete it correctly on the first attempt.  It also helped me to understand an instance where I could put a function like that to use.  I'm sure others will think it's very rudimentary, but it was a big win for me in understanding JavaScript which has been difficult for me to grasp.
+
+**Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
