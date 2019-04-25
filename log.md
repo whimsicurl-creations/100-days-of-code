@@ -47,3 +47,11 @@
 **Thoughts:** I worked through more of the curriculum for JavaScript on freeCodeCamp including a function that returned a particular phrase depending on how close you were to par.  While it was a very simplistic function, it was a challenge that wasn't as clearly laid out so it felt good to complete it correctly on the first attempt.  It also helped me to understand an instance where I could put a function like that to use.  I'm sure others will think it's very rudimentary, but it was a big win for me in understanding JavaScript which has been difficult for me to grasp.
 
 **Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
+
+### Day 8: April 25, 2019
+
+**Today's Progress**: Created a Pacman animation with pure CSS and worked through more JavaScript on freeCodeCamp
+
+**Thoughts:** Creating a more complex animation with pure CSS was fun and satisfying.  I also spent time working through more of the JavaScript challenges on freeCodeCamp, but it's not coming quite as easily as it did yesterday.  I just have to take it one day at a time.
+
+**Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
