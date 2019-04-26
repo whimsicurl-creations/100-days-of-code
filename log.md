@@ -55,3 +55,11 @@
 **Thoughts:** Creating a more complex animation with pure CSS was fun and satisfying.  I also spent time working through more of the JavaScript challenges on freeCodeCamp, but it's not coming quite as easily as it did yesterday.  I just have to take it one day at a time.
 
 **Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
+
+### Day 9: April 26, 2019
+
+**Today's Progress**: Created tooltip with CSS and finished Basic JavaScript challenges on freeCodeCamp
+
+**Thoughts:** It feels like a MAJOR accomplishment to complete all of the JavaScript challenges, but I still don't feel as though I have a solid grasp of the language in order to create things on my own with it.  I am getting better at understanding the language, which is a plus.  I'll continue to seek out ways to learn and implement it with practical, real-worl applications.
+
+**Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
