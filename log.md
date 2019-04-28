@@ -63,3 +63,11 @@
 **Thoughts:** It feels like a MAJOR accomplishment to complete all of the JavaScript challenges, but I still don't feel as though I have a solid grasp of the language in order to create things on my own with it.  I am getting better at understanding the language, which is a plus.  I'll continue to seek out ways to learn and implement it with practical, real-worl applications.
 
 **Link to work:** [freeCodeCamp Link](https://learn.freecodecamp.org/), [Brad Hussey Code College link](https://codecollege.ca/courses/)
+
+### Days 10 & 11: April 27-28, 2019
+
+**Today's Progress**: Created loading progress bars and animated pyramid with pure CSS and started JavaScript Basics with Mosh
+
+**Thoughts:** I didn't get as much time to code this weekend as I was working on other personal branding projects (converting logo to a vector image, designing a business card, thinking about my new portfolio design layout).  I did complete two more days of pure CSS projects with Brad Hussey and started a JavaScript Basics class by Code with Mosh to try and wrap my head around the language.  I figure repetition will be key with this!
+
+**Link to work:** [Brad Hussey Code College link](https://codecollege.ca/courses/), [Code with Mosh link](https://codewithmosh.com/courses/), 
