@@ -72,16 +72,18 @@
 
 **Link to work:** [Brad Hussey Code College link](https://codecollege.ca/courses/), [Code with Mosh link](https://codewithmosh.com/courses/)
 
-### Days 12: April 29, 2019
+### Day 12: April 29, 2019
 
 **Today's Progress**: Worked on making my current site responsive
 
 **Thoughts:** I did a litle more pure CSS and JavaScript through courses, but wanted to work on making my existing site responsive.  I still have a ways to go to make it completely fluid and not mess up at certain breakpoints but I'm finding it difficult since it was created desktop first.  I'll try to get the bare minimum and then work on the new site design (this time mobile first).  Still, some progress is better than no progress!
 
-**Link to work:** [GitHub branch repository link](### Days 10 & 11: April 27-28, 2019
+**Link to work:** [GitHub branch repository link](https://github.com/whimsicurl-creations/milestone-website/tree/responsive-wip)
 
-**Today's Progress**: Created loading progress bars and animated pyramid with pure CSS and started JavaScript Basics with Mosh
+### Day 13: April 30, 2019
 
-**Thoughts:** I didn't get as much time to code this weekend as I was working on other personal branding projects (converting logo to a vector image, designing a business card, thinking about my new portfolio design layout).  I did complete two more days of pure CSS projects with Brad Hussey and started a JavaScript Basics class by Code with Mosh to try and wrap my head around the language.  I figure repetition will be key with this!
+**Today's Progress**: Worked on making my current site responsive with flexbox
 
-**Link to work:** [Brad Hussey Code College link](https://codecollege.ca/courses/)
+**Thoughts:** I made a lot more progress with flexbox to make my static site responsive.  I still need to evaluate the media queries to make any adjustments for smaller screens and figure out the collapsible navigation and make sure the rest of the site is bug free.
+
+**Link to work:** [GitHub branch repository link](https://github.com/whimsicurl-creations/milestone-website/tree/responsive-wip)
