@@ -87,3 +87,11 @@
 **Thoughts:** I made a lot more progress with flexbox to make my static site responsive.  I still need to evaluate the media queries to make any adjustments for smaller screens and figure out the collapsible navigation and make sure the rest of the site is bug free.
 
 **Link to work:** [GitHub branch repository link](https://github.com/whimsicurl-creations/milestone-website/tree/responsive-wip)
+
+### Day 14: May 1, 2019
+
+**Today's Progress**: Tried new exercises to learn JavaScript
+
+**Thoughts:** I got a book from the local library that tries to teach kids JavaScript basics to create a few games.  I still can't seem to wrap my head around JavaScript, so I figured the book should be at my level.  I think part of the issue is that I've been following a lot of coding exercises and I can retype it, but when I'm presented with a problem to solve using JavaScript, I don't know where to begin.  I'm hoping this will help me better approach situations so I can understand how to code it.
+
+**Link to work:** [GitHub link](https://github.com/whimsicurl-creations/games-maker)
