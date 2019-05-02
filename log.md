@@ -95,3 +95,11 @@
 **Thoughts:** I got a book from the local library that tries to teach kids JavaScript basics to create a few games.  I still can't seem to wrap my head around JavaScript, so I figured the book should be at my level.  I think part of the issue is that I've been following a lot of coding exercises and I can retype it, but when I'm presented with a problem to solve using JavaScript, I don't know where to begin.  I'm hoping this will help me better approach situations so I can understand how to code it.
 
 **Link to work:** [GitHub link](https://github.com/whimsicurl-creations/games-maker)
+
+### Day 15: May 2, 2019
+
+**Today's Progress**: Tried to update site navigation to collapsible menu
+
+**Thoughts:** Since I'm still struggling with JavaScript, I found a resource to create a collapsible menu with CSS only.  It's still not perfect, but better than the JavaScript I was attempting (which pushed the headers down).  I'll continue to work on the site, but hopefully have it live soon.
+
+**Link to work:** [GitHub branch repository link](https://github.com/whimsicurl-creations/milestone-website/tree/responsive-wip)
