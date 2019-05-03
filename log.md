@@ -103,3 +103,13 @@
 **Thoughts:** Since I'm still struggling with JavaScript, I found a resource to create a collapsible menu with CSS only.  It's still not perfect, but better than the JavaScript I was attempting (which pushed the headers down).  I'll continue to work on the site, but hopefully have it live soon.
 
 **Link to work:** [GitHub branch repository link](https://github.com/whimsicurl-creations/milestone-website/tree/responsive-wip)
+
+**Today's Progress**: Tried new exercises to learn JavaScript
+
+### Day 16: May 3, 2019
+
+**Today's Progress**: Completed the last game in the JS Games Maker book
+
+**Thoughts:** I finished the games in the book I got from our library. I still don't feel confident in JavaScript, but seems to be spending a little less time trying to get things to work.  I think I'm going to wait until I'm done with CSS30 (and have a few more days of the 21 day challenge in JS under my belt) to tackle the JS in 30 days.
+
+**Link to work:** [GitHub link](https://github.com/whimsicurl-creations/games-maker)
