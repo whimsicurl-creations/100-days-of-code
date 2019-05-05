@@ -113,3 +113,19 @@
 **Thoughts:** I finished the games in the book I got from our library. I still don't feel confident in JavaScript, but seems to be spending a little less time trying to get things to work.  I think I'm going to wait until I'm done with CSS30 (and have a few more days of the 21 day challenge in JS under my belt) to tackle the JS in 30 days.
 
 **Link to work:** [GitHub link](https://github.com/whimsicurl-creations/games-maker)
+
+### Day 17: May 4, 2019
+
+**Today's Progress**: Another project from CSS30 and a few other small CSS projects
+
+**Thoughts:** I didn't have much time to code today, so I just continued with the CSS30 projects (this was how to use CSS to create a 3D layer effect) and a few other small CSS projects.
+
+**Link to work:** [GitHub link](https://github.com/whimsicurl-creations/css30)
+
+### Day 18: May 5, 2019
+
+**Today's Progress**: Continued trying to figure out JavaScript
+
+**Thoughts:** I began the JavaScript30 by creating the drum kit.  I was able to follow along and create the project, but I still don't feel any more confident in my abilities with the language.  I also found a written tutorial to create a Tic-Tac-Toe game.  It was supposed to be for absolute beginners and I had the HARDEST time getting it to fully work.  I was able to get most of the game set up, but had trouble declaring the winner.  I finally was able to rearrange a few elements of the code to make it functional.  It's not pretty looking, but I can come back to the CSS to style it - I feel far more confident doing that.
+
+**Link to work:** [GitHub link](https://github.com/whimsicurl-creations/games-maker), [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
