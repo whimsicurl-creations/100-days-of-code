@@ -129,3 +129,11 @@
 **Thoughts:** I began the JavaScript30 by creating the drum kit.  I was able to follow along and create the project, but I still don't feel any more confident in my abilities with the language.  I also found a written tutorial to create a Tic-Tac-Toe game.  It was supposed to be for absolute beginners and I had the HARDEST time getting it to fully work.  I was able to get most of the game set up, but had trouble declaring the winner.  I finally was able to rearrange a few elements of the code to make it functional.  It's not pretty looking, but I can come back to the CSS to style it - I feel far more confident doing that.
 
 **Link to work:** [GitHub link](https://github.com/whimsicurl-creations/games-maker), [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
+
+### Day 19: May 6, 2019
+
+**Today's Progress**: Made some headway with JavaScript (made clock with JS30)
+
+**Thoughts:** I continued the JavaScript30 with a clock.  I even paused the video as instructed to figure out the code needed for the minute and hour hands.  I also adjusted the CSS to adjust the size of the different hands to mimic a true clock.  I also was able to complete the 21 day JS challenge through Lighthouse Labs on the first try!  I'm still going to take in as much as I can, but this feels like a win.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
