@@ -137,3 +137,11 @@
 **Thoughts:** I continued the JavaScript30 with a clock.  I even paused the video as instructed to figure out the code needed for the minute and hour hands.  I also adjusted the CSS to adjust the size of the different hands to mimic a true clock.  I also was able to complete the 21 day JS challenge through Lighthouse Labs on the first try!  I'm still going to take in as much as I can, but this feels like a win.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
+
+### Day 20: May 7, 2019
+
+**Today's Progress**: Completed more JavaScript tutorials and CSS challenges
+
+**Thoughts:** I continued with the JavaScript30 projects with a way to adjust CSS variables using JavaScript.  I also learned how to use CSS to create a depth of field blur when hovering over images.  I made more progress with Skillcrush courses and will try to finish up making my current site responsive so I can update that while I work on the new site design.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub link for CSS30](https://github.com/whimsicurl-creations/css30)
