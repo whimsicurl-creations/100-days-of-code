@@ -145,3 +145,11 @@
 **Thoughts:** I continued with the JavaScript30 projects with a way to adjust CSS variables using JavaScript.  I also learned how to use CSS to create a depth of field blur when hovering over images.  I made more progress with Skillcrush courses and will try to finish up making my current site responsive so I can update that while I work on the new site design.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub link for CSS30](https://github.com/whimsicurl-creations/css30)
+
+### Day 21: May 8, 2019
+
+**Today's Progress**: Completed CSS30 and worked with more JavaScript
+
+**Thoughts:** I completed the last day of CSS30 with Brad Hussey - a CSS coffee cup.  I also worked through more JavaScript exercises.  Tonight I am going to try and finish making my static site responsive so I can make that live while I work on the new design and get that coded.  I also finished another design comp for a fictitious photographer and I'd like to try and code that design comp to add to my portfolio as I'm really happy with the final look and I want to see if I can recreate that with code.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub link for CSS30](https://github.com/whimsicurl-creations/css30)
