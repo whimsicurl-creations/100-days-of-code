@@ -153,3 +153,11 @@
 **Thoughts:** I completed the last day of CSS30 with Brad Hussey - a CSS coffee cup.  I also worked through more JavaScript exercises.  Tonight I am going to try and finish making my static site responsive so I can make that live while I work on the new design and get that coded.  I also finished another design comp for a fictitious photographer and I'd like to try and code that design comp to add to my portfolio as I'm really happy with the final look and I want to see if I can recreate that with code.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub link for CSS30](https://github.com/whimsicurl-creations/css30), [Responsive Site](http://whimsicurlcreations.com)
+
+### Day 22: May 9, 2019
+
+**Today's Progress**: Continued work on JavaScript and freeCodeCamp's Responsive Design projects
+
+**Thoughts:** Yesterday I uploaded the responsive version of my site through FTP so I can now focus on coding my new design mobile first.  Today I worked on more JavaScript (JS30 project was working with flex panels plus I did more challenges on freeCodeCamp and kept up with Lighthouse Lab's 21 day challenge).  I got back to work on the freeCodeCamp landing page for the responsive design project.  I got it to the point where it passes all of the tests, but I still need to fill in more content and CSS to make it better for my portfolio.  I don't want to settle for just passing the tests.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub link for FCC Landing Page] (https://github.com/whimsicurl-creations/fcc-landing-page)
