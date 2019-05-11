@@ -169,3 +169,11 @@
 **Thoughts:** Not a lot done today, but I did continue the next project in the JS30 list (Type Ahead), continued with the 21-day JS challenge from Lighthouse Labs, and added a bit of CSS to the Landing Page for freeCodeCamp before I submit the project.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub link for FCC Landing Page] (https://github.com/whimsicurl-creations/fcc-landing-page)
+
+### Day 24: May 11, 2019
+
+**Today's Progress**: Continued with JavaScript30 and 21 day JavaScript challenge
+
+**Thoughts:** Still keeping up JavaScript through the 21 day challenge (frustrated today that I had the correct function, but was considered "incorrect" because I called the function when it didn't need to be calld yet, but still happy that I coded the function correctly on the first try).  I also did more work with arrays through the JavaScript30 course.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
