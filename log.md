@@ -177,3 +177,11 @@
 **Thoughts:** Still keeping up JavaScript through the 21 day challenge (frustrated today that I had the correct function, but was considered "incorrect" because I called the function when it didn't need to be calld yet, but still happy that I coded the function correctly on the first try).  I also did more work with arrays through the JavaScript30 course.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
+
+### Day 25: May 12, 2019
+
+**Today's Progress**: Mother's Day - just kept up with JavaScript
+
+**Thoughts:** Spent most of the day visiting for Mother's Day, but I did keep up with JavaScript30 (fun with HTML canvas) and completed today's challenge for Lighthouse Lab's 21-day challenge (on the first attempt).
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
