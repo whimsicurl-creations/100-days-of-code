@@ -185,3 +185,11 @@
 **Thoughts:** Spent most of the day visiting for Mother's Day, but I did keep up with JavaScript30 (fun with HTML canvas) and completed today's challenge for Lighthouse Lab's 21-day challenge (on the first attempt).
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30)
+
+### Day 26: May 13, 2019
+
+**Today's Progress**: More JavaScript and updated navigation on portfolio site
+
+**Thoughts:** I managed to get the 21-day JavaScript challenge on my first attempt which FLOORED me as it was a bit more involved.  Maybe I'm finally starting to understand JS!!!  I also updated my portfolio site to include a responsive version of the Rogue Pickings website and changed the navigation so that it only collapses on smaller screens.  It's still not perfect, but it's looking more presentable.  I still need to start work on the new design - this time mobile first.  Plus I'd like to code up the design I created for a fictitious photography site as I was very pleased with the overall look and would like to see if I can create that with code.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Updated Portfolio Site](http://whimsicurlcreations.com/)
