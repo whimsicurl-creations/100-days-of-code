@@ -209,3 +209,11 @@
 **Thoughts:** Today I started a Gale course on JavaScript in hopes that it will be another way to approach and learn the language.  I'm still keeping up with the 21-day challenge and JS30 as well.  I also created the files for the next freeCodeCamp Responsive Design project (Technical Documentation page).
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 29: May 16, 2019
+
+**Today's Progress**: Kept up with JS30 and 21-day challenge, added content to FCC Documentation Page
+
+**Thoughts:** Today I kept up with the 21-day challenge (got it on the first attempt again - hooray!) and JavaScript 30 (today was tracking keystrokes to unlock a hidden secret word).  I also added some of the content to the freeCodeCamp Technical Documentation Page.  PLUS, Adda Birnir of Skillcrush asked if she could use my design comp in an upcoming webinar!  I'm flattered and flabber-ghasted!
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page)
