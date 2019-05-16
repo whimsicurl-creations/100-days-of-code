@@ -201,3 +201,11 @@
 **Thoughts:** Didn't do as well on the 21-day JS challenge, but I did get it completed.  I also finised adding content and styling the Landing Page Project for freeCodeCamp.  Only 2 more projects to get the certification!
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp Landing Page on CodePen](https://codepen.io/whimsicurl_designs/pen/bJKgeL?editors=1100)
+
+### Day 28: May 15, 2019
+
+**Today's Progress**: Started another JavaScript course and began next fCC Responsive Design project
+
+**Thoughts:** Today I started a Gale course on JavaScript in hopes that it will be another way to approach and learn the language.  I'm still keeping up with the 21-day challenge and JS30 as well.  I also created the files for the next freeCodeCamp Responsive Design project (Technical Documentation page).
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
