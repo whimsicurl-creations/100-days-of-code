@@ -217,3 +217,11 @@
 **Thoughts:** Today I kept up with the 21-day challenge (got it on the first attempt again - hooray!) and JavaScript 30 (today was tracking keystrokes to unlock a hidden secret word).  I also added some of the content to the freeCodeCamp Technical Documentation Page.  PLUS, Adda Birnir of Skillcrush asked if she could use my design comp in an upcoming webinar!  I'm flattered and flabber-ghasted!
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page)
+
+### Day 30: May 17, 2019
+
+**Today's Progress**: Kept up with JS30 and 21-day challenge, added content to FCC Documentation Page, continued JavaScript course
+
+**Thoughts:** Almost done with the 21-day JavaScript challenge and almost halfway through the JS30 projects.  I also spent time adding more of the content to the freeCodeCamp Documentation Page.  I still need to add the navbar, but can work on that later.  Right now one of the tests is failing and I'm not sure why, so I'll have to look into that further.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
