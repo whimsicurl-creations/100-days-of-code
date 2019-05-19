@@ -225,3 +225,11 @@
 **Thoughts:** Almost done with the 21-day JavaScript challenge and almost halfway through the JS30 projects.  I also spent time adding more of the content to the freeCodeCamp Documentation Page.  I still need to add the navbar, but can work on that later.  Right now one of the tests is failing and I'm not sure why, so I'll have to look into that further.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 31: May 18, 2019
+
+**Today's Progress**: Kept up with JS30 and 21-day challenge, finished adding content to FCC Documentation Page, continued JavaScript course
+
+**Thoughts:** The 21-day challenge only has a few days left and I feel like I'm finally feeling more confident with it.  We bought and planted flowers today, so not a lot of time coding, but I did finish adding the HTML content to the fCC project (just had to add the nav bar and fix a typo that was causing the tests to fail for content).  Now I get to do the fun part - styling it with CSS!
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
