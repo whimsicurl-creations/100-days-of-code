@@ -233,3 +233,11 @@
 **Thoughts:** The 21-day challenge only has a few days left and I feel like I'm finally feeling more confident with it.  We bought and planted flowers today, so not a lot of time coding, but I did finish adding the HTML content to the fCC project (just had to add the nav bar and fix a typo that was causing the tests to fail for content).  Now I get to do the fun part - styling it with CSS!
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 32: May 19, 2019
+
+**Today's Progress**: Kept up with JS30 and 21-day challenge and worked on CSS for fCC Documentation Page
+
+**Thoughts:** I'm now halfway through the JavaScript 30 challenge, but still not particularly confident in my skills.  I think the more I work with JS I become fluent in the terms and language of it, but can't seem to make it function (ha!) on my own.  I tried to do some "extra credit" for today's project by adding an uncheck all button, but I couldn't get it to work as anticipated.  Maybe I'll try another day.  In other news, I have the fCC Documentation Page mostly styled - I just need to add a media query, troubleshoot, and then I'll be ready to submit and work on the last project!
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/LoyLxO)
