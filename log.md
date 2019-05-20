@@ -241,3 +241,11 @@
 **Thoughts:** I'm now halfway through the JavaScript 30 challenge, but still not particularly confident in my skills.  I think the more I work with JS I become fluent in the terms and language of it, but can't seem to make it function (ha!) on my own.  I tried to do some "extra credit" for today's project by adding an uncheck all button, but I couldn't get it to work as anticipated.  Maybe I'll try another day.  In other news, I have the fCC Documentation Page mostly styled - I just need to add a media query, troubleshoot, and then I'll be ready to submit and work on the last project!
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/LoyLxO)
+
+### Day 33: May 20, 2019
+
+**Today's Progress**: Kept up with JS30 and 21-day challenge and finished fCC Documentation Page
+
+**Thoughts:** Only one more day of Lighthouse Labs' 21-day challenge and I also finished the Documentation Page for freeCodeCamp.  Only one more project and it's a portfolio page.  I didn't look at the specifics, but the sample pen looks pretty simple and it's the most similar to projects I've done for Skillcrush so hopefully it will be quick to do.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/LoyLxO)
