@@ -249,3 +249,11 @@
 **Thoughts:** Only one more day of Lighthouse Labs' 21-day challenge and I also finished the Documentation Page for freeCodeCamp.  Only one more project and it's a portfolio page.  I didn't look at the specifics, but the sample pen looks pretty simple and it's the most similar to projects I've done for Skillcrush so hopefully it will be quick to do.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-documentation-page), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/LoyLxO)
+
+### Day 34: May 21, 2019
+
+**Today's Progress**: Completed the 21-day JavaScript challenge from Lighthouse Labs and started the freeCodeCamp Portfolio Site
+
+**Thoughts:** I am so proud of myself for working my way through all of the JS challenges from Lighthouse Labs.  Several days I got stuck and had to get help from the hints and forum, but I was able to complete them ALL!  I was most proud when I could complete a challenge on the first attempt with no help.  Today I also started laying the basic HTML content for the freeCodeCamp Personal Portfolio project (the last of the Responsive Design projects).  I'm also 1/3 of the way through this 100 days of code!
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
