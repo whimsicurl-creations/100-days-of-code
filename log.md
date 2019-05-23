@@ -257,3 +257,11 @@
 **Thoughts:** I am so proud of myself for working my way through all of the JS challenges from Lighthouse Labs.  Several days I got stuck and had to get help from the hints and forum, but I was able to complete them ALL!  I was most proud when I could complete a challenge on the first attempt with no help.  Today I also started laying the basic HTML content for the freeCodeCamp Personal Portfolio project (the last of the Responsive Design projects).  I'm also 1/3 of the way through this 100 days of code!
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
+
+### Day 35: May 22, 2019
+
+**Today's Progress**: More JavaScript30 and JavaScript course through Gale Courses
+
+**Thoughts:** Today was busy, but I still kept up with learning more JavaScript.  I learned how to total up times with JavaScript and also found out more about the inherit objects like screen, window, navigator, etc.  I didn't get to work on my freeCodeCamp project, but maybe tomorrow!
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
