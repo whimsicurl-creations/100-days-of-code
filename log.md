@@ -265,3 +265,11 @@
 **Thoughts:** Today was busy, but I still kept up with learning more JavaScript.  I learned how to total up times with JavaScript and also found out more about the inherit objects like screen, window, navigator, etc.  I didn't get to work on my freeCodeCamp project, but maybe tomorrow!
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 36: May 23, 2019
+
+**Today's Progress**: Continued with JavaScript30 and continued working on fCC Responsive Design project
+
+**Thoughts:** Today's project with JavaScript30 was working with the webcam.  At first I wasn't familiar with setting up a local server with node.js and JSON, but was able to figure it out so I could see if my code was working.  I also worked on adding more projects and code to my freeCodeCamp Responsive Design project (last one!).
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
