@@ -273,3 +273,11 @@
 **Thoughts:** Today's project with JavaScript30 was working with the webcam.  At first I wasn't familiar with setting up a local server with node.js and JSON, but was able to figure it out so I could see if my code was working.  I also worked on adding more projects and code to my freeCodeCamp Responsive Design project (last one!).
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
+
+### Day 37: May 24, 2019
+
+**Today's Progress**: Continued with JavaScript30 and Intro to JavaScript Gale course
+
+**Thoughts:** The JavaScript30 project worked with a local server again, so I got more practice installing that with node.  I also learned how to set up language recognition.  I continued with my Intro to JavaScript Gale course which included a basic example of an if...else statement to determine pricing by age.  I then tried to recreate that idea but using a Blackjack idea to determine whether to hit or stay based on the value of the card entered.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
