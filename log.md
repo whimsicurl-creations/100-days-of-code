@@ -289,3 +289,11 @@
 **Thoughts:** I worked hard on my CSS styles for my freeCodeCamp responsive portfolio site.  I'm liking the way it looks, but I need to add a media query and work on making it a bit more responsive.  I also need to figure out why it's failing the test of having the welcome section fill the viewport.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
+
+### Day 39: May 26, 2019
+
+**Today's Progress**: Finished my last Responsive Design project for freeCodeCamp - a personal portfolio site.
+
+**Thoughts:** While the page isn't completely perfect, it did give me a chance to try out some styles for my new portfolio page design.  I'll want to fine-tune it a bit more to match my design comp, but this was good practice.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
