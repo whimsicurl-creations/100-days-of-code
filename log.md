@@ -297,3 +297,11 @@
 **Thoughts:** While the page isn't completely perfect, it did give me a chance to try out some styles for my new portfolio page design.  I'll want to fine-tune it a bit more to match my design comp, but this was good practice.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
+
+### Day 40: May 26, 2019
+
+**Today's Progress**: Continued with JS30 and began modifying my portfolio site for fCC to be more like my design comp.
+
+**Thoughts:** Today is Memorial Day and we took a long walk so I didn't spend as much time coding.  I did continue with JavaScript30, did a few ES6 exercises on freeCodeCamp.  I also began making modifications to my fCC portfolio site to make it more like the design comp I made.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Portfolio Site GitHub Repository](https://github.com/whimsicurl-creations/2019-portfolio-site)
