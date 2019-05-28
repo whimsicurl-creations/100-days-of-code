@@ -16,7 +16,7 @@
 
 **Link to work:** [CodePen link](https://codepen.io/whimsicurl_designs/full/JVpzWN), [GitHub link](https://github.com/whimsicurl-creations/fcc-survey-form)
 
-### Days 3 & 4: April 20, 2019
+### Days 3 & 4: April 20 & 21, 2019
 
 **Today's Progress**: Contributed to an open source project on GitHub and began creating the HTML framework for the freeCodeCamp Landing Page
 
@@ -298,10 +298,18 @@
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [freeCodeCamp GitHub Repository](https://github.com/whimsicurl-creations/fcc-portfolio-site), [Codepen link for fCC project](https://codepen.io/whimsicurl_designs/pen/ZNareJ)
 
-### Day 40: May 26, 2019
+### Day 40: May 27, 2019
 
 **Today's Progress**: Continued with JS30 and began modifying my portfolio site for fCC to be more like my design comp.
 
 **Thoughts:** Today is Memorial Day and we took a long walk so I didn't spend as much time coding.  I did continue with JavaScript30, did a few ES6 exercises on freeCodeCamp.  I also began making modifications to my fCC portfolio site to make it more like the design comp I made.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Portfolio Site GitHub Repository](https://github.com/whimsicurl-creations/2019-portfolio-site)
+
+### Day 41: May 28, 2019
+
+**Today's Progress**: JS30 was creating sticky nav which is helpful and continued work on making my portfolio site closer to my design comp with multiple pages.
+
+**Thoughts:** Today was the most practical project for me with the JavaScript30 - learning how to create a sticky nav bar.  I also continued to work a bit on my portfolio site to expand it to multiple pages and more closely resemble my design comp.  I also tried to work through some more ES6 curriculum on freeCodeCamp, but struggling even more with that than just plain JavaScript.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Portfolio Site GitHub Repository](https://github.com/whimsicurl-creations/2019-portfolio-site)
