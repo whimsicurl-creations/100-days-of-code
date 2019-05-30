@@ -321,3 +321,11 @@
 **Thoughts:** Today was busy with NKYAG and other Skillcrush work so I didn't spend as much time coding.  I did make it a point to keep up with JS30 which was a quick lesson to learn more about event capture, bubbling, and once.  I also continued with the Intro to JavaScript Gale course and will build upon that tomorrow to help the principles stick even more.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 43: May 30, 2019
+
+**Today's Progress**: More JavaScript today - JS30 and more work with Gale courses
+
+**Thoughts:** Continued work with JavaScript with JS30 and Gale courses.  I was able to easily add a third search option to the Gale course activity and learned how to create a follow-along dropdown nav with JavaScript.  I think I may try to use JavaScript to add the dropdown menu for the Portfolio page of my website so visitors can jump to a specific type of work (web, design, or crafts).
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
