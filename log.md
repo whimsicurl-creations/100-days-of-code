@@ -313,3 +313,11 @@
 **Thoughts:** Today was the most practical project for me with the JavaScript30 - learning how to create a sticky nav bar.  I also continued to work a bit on my portfolio site to expand it to multiple pages and more closely resemble my design comp.  I also tried to work through some more ES6 curriculum on freeCodeCamp, but struggling even more with that than just plain JavaScript.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Portfolio Site GitHub Repository](https://github.com/whimsicurl-creations/2019-portfolio-site)
+
+### Day 42: May 29, 2019
+
+**Today's Progress**: Just JavaScript today - JS30 and more work with Gale courses
+
+**Thoughts:** Today was busy with NKYAG and other Skillcrush work so I didn't spend as much time coding.  I did make it a point to keep up with JS30 which was a quick lesson to learn more about event capture, bubbling, and once.  I also continued with the Intro to JavaScript Gale course and will build upon that tomorrow to help the principles stick even more.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
