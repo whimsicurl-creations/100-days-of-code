@@ -329,3 +329,11 @@
 **Thoughts:** Continued work with JavaScript with JS30 and Gale courses.  I was able to easily add a third search option to the Gale course activity and learned how to create a follow-along dropdown nav with JavaScript.  I think I may try to use JavaScript to add the dropdown menu for the Portfolio page of my website so visitors can jump to a specific type of work (web, design, or crafts).
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 43: May 30, 2019
+
+**Today's Progress**: JavaScript30 and freeCodeCamp JavaScript curriculum
+
+**Thoughts:** Only a few more projects left in the JavaScript30 course and I also spent more time on the JavaScript curriculum on freeCodeCamp (I'm through Basic JavaScript, ES6, and today I did the Regular Expressions and Debugging sections).  I also created a repository where I can try to set up a JavaScript dropdown navigation and image modal windows before I implement it on my website.  That way I can test it in a plainer environment and try to understand the methods a bit more before adding it to a bigger project.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
