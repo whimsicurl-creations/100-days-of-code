@@ -330,10 +330,18 @@
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
 
-### Day 43: May 30, 2019
+### Day 44: May 31, 2019
 
 **Today's Progress**: JavaScript30 and freeCodeCamp JavaScript curriculum
 
 **Thoughts:** Only a few more projects left in the JavaScript30 course and I also spent more time on the JavaScript curriculum on freeCodeCamp (I'm through Basic JavaScript, ES6, and today I did the Regular Expressions and Debugging sections).  I also created a repository where I can try to set up a JavaScript dropdown navigation and image modal windows before I implement it on my website.  That way I can test it in a plainer environment and try to understand the methods a bit more before adding it to a bigger project.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
+
+### Day 45: June 1, 2019
+
+**Today's Progress**: More JavaScript today - JS30 and more work with Gale courses along with a bit of freeCodeCamp
+
+**Thoughts:** Only 2 days left of JS30 and I did more work with Gale courses and freeCodeCamp curriculum.  I'm still feeling really uncertain about what comes next and whether I am (or ever will be) ready for it.  I lean towards the design side of things, but I like knowing how things work (using code).  JavaScript has been the biggest struggle and while I grasp some things (the language and how to set things up) I still don't feel confident to start with a blank code file and make it do what I want.  I think I need to start some projects from scratch (similar, but not the same as, some projects I've done with tutorials to see if I can get things working.  console.log() here I come!
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
