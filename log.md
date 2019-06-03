@@ -345,3 +345,11 @@
 **Thoughts:** Only 2 days left of JS30 and I did more work with Gale courses and freeCodeCamp curriculum.  I'm still feeling really uncertain about what comes next and whether I am (or ever will be) ready for it.  I lean towards the design side of things, but I like knowing how things work (using code).  JavaScript has been the biggest struggle and while I grasp some things (the language and how to set things up) I still don't feel confident to start with a blank code file and make it do what I want.  I think I need to start some projects from scratch (similar, but not the same as, some projects I've done with tutorials to see if I can get things working.  console.log() here I come!
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 46: June 2, 2019
+
+**Today's Progress**: More JavaScript today - Gale courses and freeCodeCamp
+
+**Thoughts:** First day I missed of JavaScript30, but I will either do both remaining projects tomorrow or just postpone it by one day.  Spend time visiting the grandparents and then ended up with a headache that sidetracked me a bit.  I did continue with some freeCodeCamp JavaScript challenges (completed the Basic Data Structures and began the Basic Algorithm Scripting).  If nothing else, my Google search skills are getting stronger!  I also did a bit more work with Gale courses which covered how to change CSS styles with JavaScript.  That may be my way to better get a handle on JS - working with a language (design) that I comprehend more.
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
