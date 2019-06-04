@@ -353,3 +353,11 @@
 **Thoughts:** First day I missed of JavaScript30, but I will either do both remaining projects tomorrow or just postpone it by one day.  Spend time visiting the grandparents and then ended up with a headache that sidetracked me a bit.  I did continue with some freeCodeCamp JavaScript challenges (completed the Basic Data Structures and began the Basic Algorithm Scripting).  If nothing else, my Google search skills are getting stronger!  I also did a bit more work with Gale courses which covered how to change CSS styles with JavaScript.  That may be my way to better get a handle on JS - working with a language (design) that I comprehend more.
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 47: June 4, 2019
+
+**Today's Progress**: More freeCodeCamp JavaScript (Algorithm Scripting) and JS30 (one more project to go)
+
+**Thoughts:** Only did one project of the JS30 today and spent time working on more freeCodeCamp curriculum.  The Algorithm Scripting is more about problem solving but I still struggle with figuring out how to approach the problem.  Once I see the solution I can reverse engineer it and understand how it goes about utilzing the data in that way, but I can't seem to get there on my own.  I also did a bit more setup on my JavaScript testing files.
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
