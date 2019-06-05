@@ -361,3 +361,11 @@
 **Thoughts:** Only did one project of the JS30 today and spent time working on more freeCodeCamp curriculum.  The Algorithm Scripting is more about problem solving but I still struggle with figuring out how to approach the problem.  Once I see the solution I can reverse engineer it and understand how it goes about utilzing the data in that way, but I can't seem to get there on my own.  I also did a bit more setup on my JavaScript testing files.
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
+
+### Day 48: June 5, 2019
+
+**Today's Progress**: Last JS30 project (whack-a-mole) and more freeCodeCamp JS
+
+**Thoughts:** Completed the last project from JS30, but now I want to see if I can transfer some of that knowledge into my own projects.  Also completed the algorithm scripting section of freeCodeCamp and began working through object oriented programming (much more my style).
+
+**Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
