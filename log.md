@@ -369,3 +369,11 @@
 **Thoughts:** Completed the last project from JS30, but now I want to see if I can transfer some of that knowledge into my own projects.  Also completed the algorithm scripting section of freeCodeCamp and began working through object oriented programming (much more my style).
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
+
+### Day 49: June 6, 2019
+
+**Today's Progress**: More JavaScript today - Gale courses and freeCodeCamp
+
+**Thoughts:** Busy day between NKYAG and family in town, but I did spend some time doing JavaScript with my Gale course and freeCodeCamp object oriented programming exercises.  I can't believe tomorrow will already be the halfway mark!
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
