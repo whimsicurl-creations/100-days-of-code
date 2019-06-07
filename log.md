@@ -377,3 +377,11 @@
 **Thoughts:** Busy day between NKYAG and family in town, but I did spend some time doing JavaScript with my Gale course and freeCodeCamp object oriented programming exercises.  I can't believe tomorrow will already be the halfway mark!
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 50: June 7, 2019
+
+**Today's Progress**: Continued with Gale course learning to create photo carousel
+
+**Thoughts:** Another busy day wih the kiddos, but did take some time to work on creating a photo carousel.  This course so far has been really helpful for understanding JavaScript.  I need to see if there is an advanced course offered by the same instructor so I can continue to improve.
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
