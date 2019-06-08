@@ -354,7 +354,7 @@
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
 
-### Day 47: June 4, 2019
+### Day 47: June 3, 2019
 
 **Today's Progress**: More freeCodeCamp JavaScript (Algorithm Scripting) and JS30 (one more project to go)
 
@@ -362,7 +362,7 @@
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
 
-### Day 48: June 5, 2019
+### Day 48: June 4, 2019
 
 **Today's Progress**: Last JS30 project (whack-a-mole) and more freeCodeCamp JS
 
@@ -370,7 +370,7 @@
 
 **Link to work:** [GitHub link for JS30](https://github.com/whimsicurl-creations/JavaScript30), [GitHub repository for JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
 
-### Day 49: June 6, 2019
+### Day 49: June 5, 2019
 
 **Today's Progress**: More JavaScript today - Gale courses and freeCodeCamp
 
@@ -378,10 +378,18 @@
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
 
-### Day 50: June 7, 2019
+### Day 50: June 6, 2019
 
 **Today's Progress**: Continued with Gale course learning to create photo carousel
 
 **Thoughts:** Another busy day wih the kiddos, but did take some time to work on creating a photo carousel.  This course so far has been really helpful for understanding JavaScript.  I need to see if there is an advanced course offered by the same instructor so I can continue to improve.
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 51: June 7, 2019
+
+**Today's Progress**: Continued with Gale course finishing the photo carousel
+
+**Thoughts:** Still not getting much done while the kids are in town, but I did complete the photo carousel and liked the breakdown of how to set up the JavaScript to code the previous/next buttons.  It helped me figure out a bit more how to approach these types of problems.  Still not feeling fully confident in my ability to tackle these without guidance first, but hopefully I'll get there.
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
