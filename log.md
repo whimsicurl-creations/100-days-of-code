@@ -393,3 +393,11 @@
 **Thoughts:** Still not getting much done while the kids are in town, but I did complete the photo carousel and liked the breakdown of how to set up the JavaScript to code the previous/next buttons.  It helped me figure out a bit more how to approach these types of problems.  Still not feeling fully confident in my ability to tackle these without guidance first, but hopefully I'll get there.
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 52 & 53: June 9 & 10, 2019
+
+**Today's Progress**: Continued with Gale course, freeCodeCamp JavaScript
+
+**Thoughts:** Trying to keep up with coding even during the busy times.  Even a little bit helps.  I continued working through the freeCodeCamp JavaScript exercises and the Gale course.  I recreated the code for the photo carousel looking at the previous code to create a carousel with 10 images instead.  I may try to add more to it (transitions, hover effects when selecting images, etc).
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
