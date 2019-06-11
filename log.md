@@ -394,10 +394,18 @@
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
 
-### Day 52 & 53: June 9 & 10, 2019
+### Days 52 & 53: June 9 & 10, 2019
 
 **Today's Progress**: Continued with Gale course, freeCodeCamp JavaScript
 
 **Thoughts:** Trying to keep up with coding even during the busy times.  Even a little bit helps.  I continued working through the freeCodeCamp JavaScript exercises and the Gale course.  I recreated the code for the photo carousel looking at the previous code to create a carousel with 10 images instead.  I may try to add more to it (transitions, hover effects when selecting images, etc).
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 54: June 11, 2019
+
+**Today's Progress**: Continued with Gale course, freeCodeCamp JavaScript
+
+**Thoughts:** I worked more through the Gale course (covering arrays and loops) and JavaScript (more functional programming).  I still struggle with how to approach problems in JavaScript, but it seems so integral for interactivity and concise code for a website that I really want to master this language.  I also need to kick the job search into high gear and that will begin with updating my live website with more projects and then continuing to work on the new website design that better matches my business cards and personal branding.
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
