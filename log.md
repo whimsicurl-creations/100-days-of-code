@@ -409,3 +409,11 @@
 **Thoughts:** I worked more through the Gale course (covering arrays and loops) and JavaScript (more functional programming).  I still struggle with how to approach problems in JavaScript, but it seems so integral for interactivity and concise code for a website that I really want to master this language.  I also need to kick the job search into high gear and that will begin with updating my live website with more projects and then continuing to work on the new website design that better matches my business cards and personal branding.
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 55: June 12, 2019
+
+**Today's Progress**: Continued with Gale course
+
+**Thoughts:** Still catching up after the kids were in town and I'm just about there.  Today I did a bit more in the Gale course (working with timer events such as setInterval and setTimeout).  Tomorrow I will work on using that to create a slideshow and then I can get back into updating my portfolio sites with more projects while I work on fully fleshing out my newer portfolio site design.
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
