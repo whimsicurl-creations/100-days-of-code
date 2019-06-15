@@ -425,3 +425,11 @@
 **Thoughts:** I am finally all caught up with my Gale courses (until tomorrow *sigh*) but today I worked on a JavaScript slideshow.  We started with a basic slideshow that used a setInterval timer to switch between images.  We then improved it by adding classes to fade in/out.  I also followed code to add a button to start/stop the slideshow.  I was able to follow along with the code, but I'd like to see how I can expand on the code base to create a more interactive slideshow (one that may run on its own, but also includes thumbnails below if the viewer wants to jump around between images).
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 57: June 14, 2019
+
+**Today's Progress**: Continued with Gale course
+
+**Thoughts:** Today I worked a bit with jQuery.  I am looking forward to learning how it can help me more easily achieve some of the effects by using the jQuery library.
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
