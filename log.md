@@ -433,3 +433,11 @@
 **Thoughts:** Today I worked a bit with jQuery.  I am looking forward to learning how it can help me more easily achieve some of the effects by using the jQuery library.
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 58: June 15, 2019
+
+**Today's Progress**: Created Rock, Paper, Scissors game with freeCodeCamp tutorial
+
+**Thoughts:** I followed a freeCodeCamp tutorial to create a rock, paper, scissors game with HTML, CSS, and JavaScript.  I was really pleased with myself for being able to jump ahead in a few spots to figure out how to set up some of the functions.  I don't know that I could have coded it from scratch, but it's reassuring to know that I am getting it.  I also appreciated following along with one person to create a full game from scratch, one that had a bit more to it than some of my simple exercises.  I may try to expand this to include lizard and Spock like from Big Bang Theory.
+
+**Link to work:** [GitHub hosted game](https://whimsicurl-creations.github.io/rock-paper-scissors/)
