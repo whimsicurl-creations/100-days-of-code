@@ -441,3 +441,11 @@
 **Thoughts:** I followed a freeCodeCamp tutorial to create a rock, paper, scissors game with HTML, CSS, and JavaScript.  I was really pleased with myself for being able to jump ahead in a few spots to figure out how to set up some of the functions.  I don't know that I could have coded it from scratch, but it's reassuring to know that I am getting it.  I also appreciated following along with one person to create a full game from scratch, one that had a bit more to it than some of my simple exercises.  I may try to expand this to include lizard and Spock like from Big Bang Theory.
 
 **Link to work:** [GitHub hosted game](https://whimsicurl-creations.github.io/rock-paper-scissors/)
+
+### Day 59: June 17, 2019
+
+**Today's Progress**: Finished Functional Programming in JS from freeCodeCamp, Responsive Design course
+
+**Thoughts:** Too busy yesterday to get coding done on Father's Day.  Today I worked through more freeCodeCamp challenges and completed the section on Functional Programming.  Only one more section to tackle in JavaScript and then I'll need to complete the projects for the certification.  I also began working on projects for my responsive design course to improve my knowledge for creating beautifully responsive sites.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
