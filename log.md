@@ -449,3 +449,11 @@
 **Thoughts:** Too busy yesterday to get coding done on Father's Day.  Today I worked through more freeCodeCamp challenges and completed the section on Functional Programming.  Only one more section to tackle in JavaScript and then I'll need to complete the projects for the certification.  I also began working on projects for my responsive design course to improve my knowledge for creating beautifully responsive sites.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 60: June 18, 2019
+
+**Today's Progress**: Expanded my Rock, Paper, Scissors game to also include Lizard and Spock options
+
+**Thoughts:** I added more options to my Rock, Paper, Scissors game and updated the images so they would all share a similar style.  I used the exsiting code to figure out how to add the additional options.  I also added more to the HTML so that I could cover the various scenarios of what options win/lose.  I even added a nice hover option that shows the text for each option in case others aren't as familiar with Big Bang Theory.
+
+**Link to work:** [GitHub hosted game](https://whimsicurl-creations.github.io/rock-paper-scissors/)
