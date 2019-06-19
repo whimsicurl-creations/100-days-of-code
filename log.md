@@ -455,6 +455,14 @@
 **Today's Progress**: Expanded my Rock, Paper, Scissors game to also include Lizard and Spock options
 
 **Thoughts:** I added more options to my Rock, Paper, Scissors game and updated the images so they would all share a similar style.  I used the exsiting code to figure out how to add the additional options.  I also added more to the HTML so that I could cover the various scenarios of what options win/lose.  I even added a nice hover option that shows the text for each option in case others aren't as familiar with Big Bang Theory.
-Bonus: I updated my portfolio site with 3 JavaScript projects (Magic 8 Ball, Election Map, and Rock, Paper, Scissors, Lizard, Spock Game.  I need to get back to redesigning my website, but at least I can update what I have in the meantime.  I need to still add some of my design projects (logo designs and web designs).
+**Bonus:** I updated my portfolio site with 3 JavaScript projects (Magic 8 Ball, Election Map, and Rock, Paper, Scissors, Lizard, Spock Game.  I need to get back to redesigning my website, but at least I can update what I have in the meantime.  I need to still add some of my design projects (logo designs and web designs).
 
 **Link to work:** [GitHub hosted game](https://whimsicurl-creations.github.io/rock-paper-scissors/), [Update Portfolio Site](http://whimsicurlcreations.com/)
+
+### Day 61: June 19, 2019
+
+**Today's Progress**: Continued with Gale course and JS challenges on edabit.com
+
+**Thoughts:** More work with jQuery in my Gale course - today working with toggles and other effects to create a collapsible menu and an accordion.  Also did the bonus exercise to code a button to toggle a CSS class between standard colors (white bg, black text) to inverted (black bg, white text).  Also did some more JS challenges on edabit.com where I'm feeling a lot more confident about my ability to understand and write JavaScript code.  I just need to continue working on thinking through the problems so I can break down the tasks into code snippets.
+
+**Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
