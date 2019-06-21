@@ -474,3 +474,11 @@
 **Thoughts:** Another day that got busier than I anticipated, but I did get to do some more JavaScript challenges on edabit.com.  I'm really liking their format and having done several of their challenges (though I think I'm still working through easier levels right now) I feel like I have a somewhat solid grasp on JavaScript.  I feel more confident in my ability to think through and solve the challenges presented on my own.  I also worked through a bit more of the Responsive Design course, today working with media queries.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 63: June 21, 2019
+
+**Today's Progress**: Finished the Intro to JavaScript Gale course and continued working with Media Queries
+
+**Thoughts:** I completed my JavaScript course and received the certification (only got one question wrong on the final exam).  I'm pretty proud of completing the course, but I don't want to let my JavaScript slide.  The edabit.com challenges have been helpful for thinking problems through and learning more methods to use when working with numbers, strings, and more.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
