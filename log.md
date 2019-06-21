@@ -466,3 +466,11 @@
 **Thoughts:** More work with jQuery in my Gale course - today working with toggles and other effects to create a collapsible menu and an accordion.  Also did the bonus exercise to code a button to toggle a CSS class between standard colors (white bg, black text) to inverted (black bg, white text).  Also did some more JS challenges on edabit.com where I'm feeling a lot more confident about my ability to understand and write JavaScript code.  I just need to continue working on thinking through the problems so I can break down the tasks into code snippets.
 
 **Link to work:** [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 62: June 20, 2019
+
+**Today's Progress**: More JavaScript challenges on edabit.com and worked with Media Queries for responsive design
+
+**Thoughts:** Another day that got busier than I anticipated, but I did get to do some more JavaScript challenges on edabit.com.  I'm really liking their format and having done several of their challenges (though I think I'm still working through easier levels right now) I feel like I have a somewhat solid grasp on JavaScript.  I feel more confident in my ability to think through and solve the challenges presented on my own.  I also worked through a bit more of the Responsive Design course, today working with media queries.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
