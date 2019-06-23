@@ -482,3 +482,10 @@
 **Thoughts:** I completed my JavaScript course and received the certification (only got one question wrong on the final exam).  I'm pretty proud of completing the course, but I don't want to let my JavaScript slide.  The edabit.com challenges have been helpful for thinking problems through and learning more methods to use when working with numbers, strings, and more.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/), [Gale course GitHub repository](https://github.com/whimsicurl-creations/gale-intro-js)
+
+### Day 64: June 22, 2019
+
+**Today's Progress**: More JavaScript challenges on edabit.com and modified Media Queries for responsive design
+
+**Thoughts:** I'm still (for the most part) loving the challenges on edabit.com.  I've run into more struggles recently, but still feel that I'm learning from the problems presented.  I also worked on modifying the site we're working on in the Responsive Web Design course.  I modified the colors and added a border radius for more of the desktop elements.  I didn't make any major changes because I'm not sure how much more we'll be working on this site and I didn't want to deviate too much from the given code. 
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
