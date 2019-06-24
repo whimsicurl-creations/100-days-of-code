@@ -498,3 +498,11 @@
 **Thoughts:** Spent time visiting with the grandparents so not a lot of time to code today.  I did do a few more challenges on edabit.com and also completed the next lesson in my responsive design course.  I updated my color scheme a bit for higher contrast on mobile sites and also added Google fonts to customize.  I added an inset shadow on my nav links when hovered and it's causing a slight shift in elements when you hover.  I'll research  more soon to find out how to keep that from making other elements on the pages jump around a bit.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 66: June 24, 2019
+
+**Today's Progress**: Workd on new portfolio site design (updated nav) and a few more edabit.com challenges
+
+**Thoughts:** I finally got back to my portfolio site redesign.  I worked on updating the navigation to show a submenu for my projects link (which I may update to be Portfolio).  I may still update this again, but for now the design is completely CSS based.  It took longer than anticipated, but I realized that the way my navigation is set up, I needed to have the links come out to the left instead of dropping down.  I'm also getting to more challenging edabit.com challenges but I'm trying to figure them out.
+
+**Link to work:** [GitHub repository for new portfolio site design](https://github.com/whimsicurl-creations)
