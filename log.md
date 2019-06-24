@@ -487,5 +487,14 @@
 
 **Today's Progress**: More JavaScript challenges on edabit.com and modified Media Queries for responsive design
 
-**Thoughts:** I'm still (for the most part) loving the challenges on edabit.com.  I've run into more struggles recently, but still feel that I'm learning from the problems presented.  I also worked on modifying the site we're working on in the Responsive Web Design course.  I modified the colors and added a border radius for more of the desktop elements.  I didn't make any major changes because I'm not sure how much more we'll be working on this site and I didn't want to deviate too much from the given code. 
+**Thoughts:** I'm still (for the most part) loving the challenges on edabit.com.  I've run into more struggles recently, but still feel that I'm learning from the problems presented.  I also worked on modifying the site we're working on in the Responsive Web Design course.  I modified the colors and added a border radius for more of the desktop elements.  I didn't make any major changes because I'm not sure how much more we'll be working on this site and I didn't want to deviate too much from the given code.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 65: June 23, 2019
+
+**Today's Progress**: More JavaScript challenges on edabit.com and updated Media Queries for responsive design course
+
+**Thoughts:** Spent time visiting with the grandparents so not a lot of time to code today.  I did do a few more challenges on edabit.com and also completed the next lesson in my responsive design course.  I updated my color scheme a bit for higher contrast on mobile sites and also added Google fonts to customize.  I added an inset shadow on my nav links when hovered and it's causing a slight shift in elements when you hover.  I'll research  more soon to find out how to keep that from making other elements on the pages jump around a bit.
+
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
