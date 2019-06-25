@@ -501,8 +501,16 @@
 
 ### Day 66: June 24, 2019
 
-**Today's Progress**: Workd on new portfolio site design (updated nav) and a few more edabit.com challenges
+**Today's Progress**: Worked on new portfolio site design (updated nav) and a few more edabit.com challenges
 
 **Thoughts:** I finally got back to my portfolio site redesign.  I worked on updating the navigation to show a submenu for my projects link (which I may update to be Portfolio).  I may still update this again, but for now the design is completely CSS based.  It took longer than anticipated, but I realized that the way my navigation is set up, I needed to have the links come out to the left instead of dropping down.  I'm also getting to more challenging edabit.com challenges but I'm trying to figure them out.
+
+**Link to work:** [GitHub repository for new portfolio site design](https://github.com/whimsicurl-creations)
+
+### Day 67: June 25, 2019
+
+**Today's Progress**: Worked on building visual design skills along with working on personal portfolio site and some JavaScript challenges on edabit.com
+
+**Thoughts:** Tried to work a bit more on my portfolio site, but spent more of the day improving my visual design skills (website wireframes, PhotoShop tools and resources, etc.).  I also did a few more challenges on edabit.com.
 
 **Link to work:** [GitHub repository for new portfolio site design](https://github.com/whimsicurl-creations)
