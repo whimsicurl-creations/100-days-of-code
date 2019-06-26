@@ -514,3 +514,11 @@
 **Thoughts:** Tried to work a bit more on my portfolio site, but spent more of the day improving my visual design skills (website wireframes, PhotoShop tools and resources, etc.).  I also did a few more challenges on edabit.com.
 
 **Link to work:** [GitHub repository for new portfolio site design](https://github.com/whimsicurl-creations)
+
+### Day 68: June 26, 2019
+
+**Today's Progress**: More responsive design work and JavaScript challenges on edabit.com
+
+**Thoughts:** Continued with my responsive design course.  Today I worked on modifying layouts with media queries and floats.  I am working with those for now, but will see whether to keep with that or revert back to flexbox.  Maybe I'll fork the design to try the same content with different formats to compare/contrast.  I'm also keeping up with a few JavaScript challenges each day on edabit.com.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
