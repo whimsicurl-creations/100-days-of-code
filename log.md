@@ -522,3 +522,11 @@
 **Thoughts:** Continued with my responsive design course.  Today I worked on modifying layouts with media queries and floats.  I am working with those for now, but will see whether to keep with that or revert back to flexbox.  Maybe I'll fork the design to try the same content with different formats to compare/contrast.  I'm also keeping up with a few JavaScript challenges each day on edabit.com.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 69: June 27, 2019
+
+**Today's Progress**: Mostly responsive design work - creating my own responsive site with floats and flexbox
+
+**Thoughts:** I finished working on my project for Gale course - creating my own site and making it responsive.  The course just used floats so I started with that but was getting frustrated since it doesn't smoothly transition between the different media queries.  I also wanted to compare/contrast using floats vs using flexbox.  Even though I was a bit rusty on flexbox, it was MUCH easier to work with in my opinion and created a cleaner overall site (with the floats it was hard for me to keep everything centered without bumping something down to another line).
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/), [Pirates Page with Flexbox](https://whimsicurl-creations.github.io/pirates-flex/), [Pirates Page with Floats](https://whimsicurl-creations.github.io/pirates-float/)
