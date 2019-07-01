@@ -530,3 +530,27 @@
 **Thoughts:** I finished working on my project for Gale course - creating my own site and making it responsive.  The course just used floats so I started with that but was getting frustrated since it doesn't smoothly transition between the different media queries.  I also wanted to compare/contrast using floats vs using flexbox.  Even though I was a bit rusty on flexbox, it was MUCH easier to work with in my opinion and created a cleaner overall site (with the floats it was hard for me to keep everything centered without bumping something down to another line).
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/), [Pirates Page with Flexbox](https://whimsicurl-creations.github.io/pirates-flex/), [Pirates Page with Floats](https://whimsicurl-creations.github.io/pirates-float/)
+
+### Day 70: June 28, 2019
+
+**Today's Progress**: Worked with details/summary tags in HTML5 to create collapsible content
+
+**Thoughts:** Today I learned about the details and summary tags in HTML5 to create collapsible content - good for mobile screens.  I didn't get a lot of practice with it yet, but it is nice to know this is something that can be created without needed CSS or JavaScript (though I did work on styling it a bit with CSS).
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 71: June 30, 2019
+
+**Today's Progress**: Created my own site to get more practice with details/summary tags
+
+**Thoughts:** I practiced using the details/summary tags including nesting them inside one another.  I used article tags for desktop and tablet design, but the details/summary for mobile screens.  I kept the design simple, but defined Harry Potter terms to create my site.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/), [Harry Potter Terms site](https://whimsicurl-creations.github.io/hp-terms-collapsible/)
+
+### Day 72: July 1, 2019
+
+**Today's Progress**: Did JavaScript challenges on edabit.com and helped others debug code
+
+**Thoughts:** Today I didn't do much of my own code writing, but I helped several others on Skillcrush's slack site to find and fix problems they were having with their own code.  I like being able to help others and finding bugs in other people's code helps me build skills to work with other developers and use tools to find issues.
+
+**Link to work:** No links to work today (sorry GitHub tile wall), but I used (https://edabit.com/) to continue to build my JavaScript skills.
