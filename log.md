@@ -554,3 +554,11 @@
 **Thoughts:** Today I didn't do much of my own code writing, but I helped several others on Skillcrush's slack site to find and fix problems they were having with their own code.  I like being able to help others and finding bugs in other people's code helps me build skills to work with other developers and use tools to find issues.
 
 **Link to work:** No links to work today (sorry GitHub tile wall), but I used (https://edabit.com/) to continue to build my JavaScript skills.
+
+### Day 73: July 2, 2019
+
+**Today's Progress**: JS challenges on edabit.com and added design projects to website
+
+**Thoughts:** I still need to get back to working on my new portfolio design, but in the meantime I also need to keep my live website up to date to showcase more of my projects and abilities.  Today I added some of my design projects (a website design comp, brand style guide, and another responsive website example).  I also did a few more JavaScript challenges on edabit.com
+
+**Link to work:** [Updated website](http://whimsicurlcreations.com/)
