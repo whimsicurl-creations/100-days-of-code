@@ -562,3 +562,11 @@
 **Thoughts:** I still need to get back to working on my new portfolio design, but in the meantime I also need to keep my live website up to date to showcase more of my projects and abilities.  Today I added some of my design projects (a website design comp, brand style guide, and another responsive website example).  I also did a few more JavaScript challenges on edabit.com
 
 **Link to work:** [Updated website](http://whimsicurlcreations.com/)
+
+### Day 74: July 3, 2019
+
+**Today's Progress**: Worked with picture tags and other ways to handle responsive images
+
+**Thoughts:** Today I learned about several different ways to handle images so that you can have quality images without sacrificing download times.  Among the things I worked with were compressing images as well as using figure and picture HTML tags to establish different images to load based on the given viewport size.  These tags weren't as cut and dry, but will definitely be useful in improving load times for mobile users.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
