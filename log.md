@@ -570,3 +570,11 @@
 **Thoughts:** Today I learned about several different ways to handle images so that you can have quality images without sacrificing download times.  Among the things I worked with were compressing images as well as using figure and picture HTML tags to establish different images to load based on the given viewport size.  These tags weren't as cut and dry, but will definitely be useful in improving load times for mobile users.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 75: July 6, 2019
+
+**Today's Progress**: Continued learning about responsive web image options, today learning about SVG images
+
+**Thoughts:** I took a bit of time to enjoy the 4th and work on other tasks (cleaning!) during the holiday so I didn't do as much coding.  Today the responsive design course taught about SVG files and how they are a vector image file that is pretty widely recognized.  I didn't realize that SVG files could be hard-coded into a project, but I am excited about the possibilities to create and include SVG files in future projects.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
