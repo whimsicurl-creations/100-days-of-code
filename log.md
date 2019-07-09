@@ -578,3 +578,11 @@
 **Thoughts:** I took a bit of time to enjoy the 4th and work on other tasks (cleaning!) during the holiday so I didn't do as much coding.  Today the responsive design course taught about SVG files and how they are a vector image file that is pretty widely recognized.  I didn't realize that SVG files could be hard-coded into a project, but I am excited about the possibilities to create and include SVG files in future projects.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 76: July 8, 2019
+
+**Today's Progress**: Trying to learn how to implement modals in portfolio site
+
+**Thoughts:** Lately I've been working on more visual design and helping others debug HTML and CSS issues without doing a lot of my own coding.  Today I experimented with creating modals using HTML, CSS, and JS.  I'm still trying to understand it (a few tutorials that have walked me through just show a single modal and I'm trying to figure out how to incorporate multiple modals on one page without doubling the amount of code).  I'd love to at the very least have my craft and design images open in a modal versus opening a separate tab/window.  I don't know if it's possible to open a window with a live website, so those may need to remain as external links.
+
+**Link to work:** [JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
