@@ -586,3 +586,11 @@
 **Thoughts:** Lately I've been working on more visual design and helping others debug HTML and CSS issues without doing a lot of my own coding.  Today I experimented with creating modals using HTML, CSS, and JS.  I'm still trying to understand it (a few tutorials that have walked me through just show a single modal and I'm trying to figure out how to incorporate multiple modals on one page without doubling the amount of code).  I'd love to at the very least have my craft and design images open in a modal versus opening a separate tab/window.  I don't know if it's possible to open a window with a live website, so those may need to remain as external links.
 
 **Link to work:** [JavaScript testing](https://github.com/whimsicurl-creations/javascript-testing)
+
+### Day 77: July 10, 2019
+
+**Today's Progress**: Learned about HTML5 input types to make forms more responsive for mobile
+
+**Thoughts:** Today I worked with forms and using HTML5 input types to make them friendlier for mobile devices (how it can bring up different types of keyboards and the like to make inputting easier).  I also got more practice with styling a form with CSS (still my favorite part - playing with the design of it all).  
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/), [End Form Result](https://whimsicurl-creations.github.io/connect-form/)
