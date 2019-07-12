@@ -594,3 +594,11 @@
 **Thoughts:** Today I worked with forms and using HTML5 input types to make them friendlier for mobile devices (how it can bring up different types of keyboards and the like to make inputting easier).  I also got more practice with styling a form with CSS (still my favorite part - playing with the design of it all).  
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/), [End Form Result](https://whimsicurl-creations.github.io/connect-form/)
+
+### Day 78: July 12, 2019
+
+**Today's Progress**: Worked with Bootstrap to create a button, collapsible nav, and carousel
+
+**Thoughts:** Working through the responsive course I'm in, today was learning about Bootstrap and using some of the widgets offered to create responsive code that I can modify to suit my needs.  While it was nice getting things created so quickly, it still felt like cheating.  I think going in tomorrow to customize the code more will make it feel more like my own.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
