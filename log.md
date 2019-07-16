@@ -602,3 +602,11 @@
 **Thoughts:** Working through the responsive course I'm in, today was learning about Bootstrap and using some of the widgets offered to create responsive code that I can modify to suit my needs.  While it was nice getting things created so quickly, it still felt like cheating.  I think going in tomorrow to customize the code more will make it feel more like my own.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 79: July 15, 2019
+
+**Today's Progress**: Worked with Bootstrap to build my own HTML combining several bootstrap elements
+
+**Thoughts:** Trying to work a bit more with Bootstrap, but starting from scratch and trying to modify the elements to suit my taste/needs.  Also experimenting with including several Bootstrap elements in one page.  Just getting started, so I still need to get into it more to share thoughts on how it's going.
+
+**Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
