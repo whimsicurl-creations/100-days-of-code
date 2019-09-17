@@ -610,3 +610,19 @@
 **Thoughts:** Trying to work a bit more with Bootstrap, but starting from scratch and trying to modify the elements to suit my taste/needs.  Also experimenting with including several Bootstrap elements in one page.  Just getting started, so I still need to get into it more to share thoughts on how it's going.
 
 **Link to work:** [GitHub pages responsive design link](https://whimsicurl-creations.github.io/responsive-web-design/)
+
+### Day 80: July ?? - Aug. 27, 2019
+
+**Today's Progress**: (Kept coding, but didn't keep up with my log) Accepted to Chingu Voyage 11, completed Pre-Work project
+
+**Thoughts:** I found out about Chingu through Laurence Bradford's Tech Side Gig course.  I still need to get back to finishing that course, but I thought the Chingu experience could help push me out of my comfort zone.  I started with the Tier 1 level and completed the pre-work task of cloning a template landing page design that incorporated some JavaScript elements.
+
+**Link to work:** [GitHub respsitory](https://github.com/whimsicurl-creations/chingu-pre-work), [Live site](https://whimsicurl-creations.github.io/chingu-pre-work/), [Template that was cloned](https://www.free-css.com/free-css-templates/page196/conquer)
+
+### Day 79: Sept. 1 - 17, 2019
+
+**Today's Progress**: Chingu Voyage 11 Toucans Team 1 work
+
+**Thoughts:** Being in the Tier 1 group, I was paired with one other programmer and we were able to choose something to design.  We decided to clone another template, but this time we'll be doing it together.  As Chingu suggested, we are starting with our MVP and then we will add more dynamic features with JavaScript as we have time.  So far we have the HTML set up and most of the base CSS.  We need to fine tune the CSS and then focus on media queries and JavaScript elements.  I am thankful for the opportunity to build my skills in this way.
+
+**Link to work:** [GitHub repository](https://github.com/chingu-voyages/v11-toucans-team-01), [Template we're cloning](https://pixelarity.com/telemetry)
